@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333; /* Set the background color for the header */
+    padding: 10px; /* Add some padding to the header */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px; /* Set the width of your logo */
+    height: auto; /* Maintain aspect ratio */
+}
+
+nav {
+    /* Add your navigation styles here */
+    color: white;
+}
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #eee;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    height: 50px; /* Adjust the height as needed */
+    width: auto;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+}
+
+.links li {
+    margin-right: 20px;
+}
+
+.links a {
+    text-decoration: none;
+    color: #333;
+}
+
+.action_btn {
+    background-color: #333;
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.toggle_btn {
+    /* You can add styling for your toggle button here */
+}
+
+
+/* Add more styles as needed for the rest of your webpage */
